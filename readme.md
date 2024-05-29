@@ -5,7 +5,7 @@
    groq_api_key= "get api key from Groq website"
 ```
 
-2. Create a folder name user_data and put pdfs with your personal information inside it.
+2. Create a folder named "user_data" and put pdfs with your personal information inside it.
 
 3. Create environment using
 
